@@ -1,2 +1,2 @@
-# All-of-my-comp-stuff
-All my old assignments.
+#Old-comp-assignments 
+Some of my old assignments.
